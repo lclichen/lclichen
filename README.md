@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Haolin Shi(史昊霖)
-
+![marblue](https://count.getloli.com/get/@marblue)  
 A master's student at University of Science and Technology of China.  
 🔭 I’m currently working on 3D content generation, 3D scene generation, and 3d-aware video generation.  
 🌱 I’m currently learning computer graphics and computer vision.  
