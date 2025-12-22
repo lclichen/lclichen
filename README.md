@@ -9,3 +9,7 @@ A master's student at University of Science and Technology of China.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lclichen&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lclichen&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+
+【内推直通车】优酷核心团队招聘，长期有效
+公司聚焦 AIGC / 大模型应用层，技术氛围浓厚，牛人多，成长快。目前急招：大模型算法、搜推广算法、前后端开发、AI 产品经理等。走我内推，简历优先直达部门，实时跟进进度，全程答疑。薪资 open，期权加持。有意者请将简历及意向岗位发至：shihaolin.shl@alibaba-inc.com或通过官网投递时填写我的推荐码：1V9S0F
