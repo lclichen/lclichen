@@ -10,7 +10,7 @@ I am currently working as an Algorithm Engineer specializing in Content Generati
 📫 How to reach me: I’m happy to chat! You can contact me on WeChat with ID: `Ookura_Resona`<!-- or on Telegram [@SakurakoujiLuna](https://t.me/SakurakoujiLuna)-->.  
 
 [![Anurag's GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](./profile/top-langs.svg)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 【内推直通车】优酷核心团队招聘，长期有效
